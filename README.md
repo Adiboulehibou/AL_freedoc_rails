@@ -5,7 +5,11 @@ FOLLOW THE INSTRUCTION TO TEST :
 - rails db:seed
 - rails c :
       - Faire les tests nécessaires (tp Doctor.all, tp Patient.all, tp JoinTableDoctorSpecialty.all...)
+      
+      
+      
       -FOR 1-N LINK : 
+          
           > a = Doctor.new
           #=> Un doctor pas encore sauvegardé
 
